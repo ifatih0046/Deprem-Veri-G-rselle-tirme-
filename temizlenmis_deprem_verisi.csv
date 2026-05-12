@@ -1,0 +1,313 @@
+﻿Date,Year,Magnitude,Depth,City,Season,Region
+13/03/2026,2026,5.5,6.37,Tokat,İlkbahar,Karadeniz
+09/03/2026,2026,5.1,7.0,Denizli,İlkbahar,Ege
+24/01/2026,2026,5.1,11.93,Balıkesir,Kış,Marmara
+27/10/2025,2025,6.1,6.07,Balıkesir,Sonbahar,Marmara
+02/10/2025,2025,5.0,9.97,Tekirdağ,Sonbahar,Marmara
+28/09/2025,2025,5.4,8.46,Kütahya,Sonbahar,Ege
+10/08/2025,2025,6.1,12.89,Balıkesir,Yaz,Marmara
+07/07/2025,2025,5.0,15.0,Muğla,Yaz,Ege
+03/06/2025,2025,5.8,67.91,Muğla,Yaz,Ege
+15/05/2025,2025,5.2,18.27,Konya,İlkbahar,İç Anadolu
+14/05/2025,2025,6.0,49.0,Muğla,İlkbahar,Ege
+23/04/2025,2025,5.9,6.99,İstanbul,İlkbahar,Marmara
+23/04/2025,2025,6.2,4.91,İstanbul,İlkbahar,Marmara
+21/01/2025,2025,5.2,8.65,Çanakkale,Kış,Marmara
+08/11/2024,2024,5.0,16.22,Elazığ,Sonbahar,Doğu Anadolu
+27/10/2024,2024,5.0,9.7,Adana,Sonbahar,Akdeniz
+16/10/2024,2024,5.9,10.48,Malatya,Sonbahar,Doğu Anadolu
+07/09/2024,2024,5.0,7.0,Kahramanmaraş,Sonbahar,Akdeniz
+18/04/2024,2024,5.6,5.25,Tokat,İlkbahar,Karadeniz
+27/01/2024,2024,5.1,8.51,İzmir,Kış,Ege
+25/01/2024,2024,5.2,13.88,Malatya,Kış,Doğu Anadolu
+04/12/2023,2023,5.1,8.98,Bursa,Kış,Marmara
+23/11/2023,2023,5.2,11.96,Malatya,Sonbahar,Doğu Anadolu
+24/08/2023,2023,5.0,7.0,Malatya,Yaz,Doğu Anadolu
+10/08/2023,2023,5.3,7.89,Malatya,Yaz,Doğu Anadolu
+01/08/2023,2023,5.0,7.83,Konya,Yaz,İç Anadolu
+25/07/2023,2023,5.5,10.38,Adana,Yaz,Akdeniz
+03/05/2023,2023,5.0,7.0,Kahramanmaraş,İlkbahar,Akdeniz
+26/04/2023,2023,5.0,54.16,Muğla,İlkbahar,Ege
+23/03/2023,2023,5.3,12.9,Kahramanmaraş,İlkbahar,Akdeniz
+03/03/2023,2023,5.0,7.06,Kahramanmaraş,İlkbahar,Akdeniz
+27/02/2023,2023,5.6,6.15,Malatya,Kış,Doğu Anadolu
+27/02/2023,2023,5.0,8.51,Adıyaman,Kış,Güneydoğu Anadolu
+25/02/2023,2023,5.3,2.28,Konya,Kış,İç Anadolu
+23/02/2023,2023,5.0,8.75,Hatay,Kış,Akdeniz
+20/02/2023,2023,5.8,6.64,Hatay,Kış,Akdeniz
+20/02/2023,2023,6.4,21.73,Hatay,Kış,Akdeniz
+18/02/2023,2023,5.1,6.2,Kahramanmaraş,Kış,Akdeniz
+16/02/2023,2023,5.1,9.26,Hatay,Kış,Akdeniz
+10/02/2023,2023,5.0,10.45,Malatya,Kış,Doğu Anadolu
+08/02/2023,2023,5.0,16.69,Kahramanmaraş,Kış,Akdeniz
+08/02/2023,2023,5.3,13.18,Malatya,Kış,Doğu Anadolu
+08/02/2023,2023,5.1,9.06,Kahramanmaraş,Kış,Akdeniz
+08/02/2023,2023,5.0,15.84,Kahramanmaraş,Kış,Akdeniz
+07/02/2023,2023,5.0,10.22,Kahramanmaraş,Kış,Akdeniz
+07/02/2023,2023,5.2,11.48,Kahramanmaraş,Kış,Akdeniz
+07/02/2023,2023,5.1,6.85,Adıyaman,Kış,Güneydoğu Anadolu
+07/02/2023,2023,5.3,8.18,Malatya,Kış,Doğu Anadolu
+07/02/2023,2023,5.4,8.44,Adıyaman,Kış,Güneydoğu Anadolu
+07/02/2023,2023,5.0,6.87,Malatya,Kış,Doğu Anadolu
+07/02/2023,2023,5.0,17.4,Kahramanmaraş,Kış,Akdeniz
+06/02/2023,2023,5.2,5.82,Malatya,Kış,Doğu Anadolu
+06/02/2023,2023,5.5,5.96,Kahramanmaraş,Kış,Akdeniz
+06/02/2023,2023,5.0,7.03,Kahramanmaraş,Kış,Akdeniz
+06/02/2023,2023,5.2,12.79,Kahramanmaraş,Kış,Akdeniz
+06/02/2023,2023,5.1,10.06,Kahramanmaraş,Kış,Akdeniz
+06/02/2023,2023,5.3,11.15,Malatya,Kış,Doğu Anadolu
+06/02/2023,2023,5.0,7.04,Malatya,Kış,Doğu Anadolu
+06/02/2023,2023,5.1,8.76,Kahramanmaraş,Kış,Akdeniz
+06/02/2023,2023,5.3,7.2,Malatya,Kış,Doğu Anadolu
+06/02/2023,2023,5.2,10.85,Kahramanmaraş,Kış,Akdeniz
+06/02/2023,2023,5.1,7.0,Kahramanmaraş,Kış,Akdeniz
+06/02/2023,2023,5.9,17.04,Kahramanmaraş,Kış,Akdeniz
+06/02/2023,2023,5.7,10.4,Malatya,Kış,Doğu Anadolu
+06/02/2023,2023,5.9,11.28,Malatya,Kış,Doğu Anadolu
+06/02/2023,2023,5.5,10.93,Kahramanmaraş,Kış,Akdeniz
+06/02/2023,2023,5.8,6.89,Malatya,Kış,Doğu Anadolu
+06/02/2023,2023,7.6,7.0,Kahramanmaraş,Kış,Akdeniz
+06/02/2023,2023,5.0,7.0,Kahramanmaraş,Kış,Akdeniz
+06/02/2023,2023,5.3,11.81,Gaziantep,Kış,Güneydoğu Anadolu
+06/02/2023,2023,5.1,6.95,Adıyaman,Kış,Güneydoğu Anadolu
+06/02/2023,2023,5.6,10.23,Malatya,Kış,Doğu Anadolu
+06/02/2023,2023,5.3,16.44,Kahramanmaraş,Kış,Akdeniz
+06/02/2023,2023,5.3,10.21,Gaziantep,Kış,Güneydoğu Anadolu
+06/02/2023,2023,5.3,6.63,Kahramanmaraş,Kış,Akdeniz
+06/02/2023,2023,5.0,7.0,Hatay,Kış,Akdeniz
+06/02/2023,2023,5.7,11.19,Osmaniye,Kış,Akdeniz
+06/02/2023,2023,5.0,7.0,Adıyaman,Kış,Güneydoğu Anadolu
+06/02/2023,2023,6.6,6.2,Gaziantep,Kış,Güneydoğu Anadolu
+06/02/2023,2023,5.6,6.98,Gaziantep,Kış,Güneydoğu Anadolu
+06/02/2023,2023,7.7,8.6,Kahramanmaraş,Kış,Akdeniz
+25/01/2023,2023,5.4,27.77,Antalya,Kış,Akdeniz
+10/01/2023,2023,5.0,14.95,Lesvos,Kış,Diğer / Deniz
+07/01/2023,2023,5.0,14.02,Lesvos,Kış,Diğer / Deniz
+23/11/2022,2022,5.9,6.81,Düzce,Sonbahar,Karadeniz
+21/11/2022,2022,5.4,49.24,Muğla,Sonbahar,Ege
+11/10/2022,2022,5.1,7.0,Osmaniye,Sonbahar,Akdeniz
+27/09/2022,2022,5.0,9.45,Ardahan,Sonbahar,Diğer / Deniz
+03/09/2022,2022,5.3,6.76,Muğla,Sonbahar,Ege
+31/08/2022,2022,5.1,7.03,Aydın,Yaz,Ege
+14/08/2022,2022,5.0,7.0,İzmir,Yaz,Ege
+12/06/2022,2022,5.0,18.62,Van,Yaz,Doğu Anadolu
+09/04/2022,2022,5.2,6.72,Malatya,İlkbahar,Doğu Anadolu
+05/01/2022,2022,5.3,39.52,Antalya,Kış,Akdeniz
+26/12/2021,2021,5.5,36.2,Muğla,Kış,Ege
+30/11/2021,2021,5.1,7.0,İzmir,Sonbahar,Ege
+19/11/2021,2021,5.1,5.18,Erzurum,Sonbahar,Doğu Anadolu
+17/11/2021,2021,5.0,18.29,Düzce,Sonbahar,Karadeniz
+08/11/2021,2021,5.1,6.82,Konya,Sonbahar,İç Anadolu
+19/10/2021,2021,6.0,36.1,Antalya,Sonbahar,Akdeniz
+31/08/2021,2021,5.0,12.07,Kütahya,Yaz,Ege
+03/08/2021,2021,5.0,7.61,Muğla,Yaz,Ege
+01/08/2021,2021,5.5,10.86,Muğla,Yaz,Ege
+25/06/2021,2021,5.2,15.51,Bingöl,Yaz,Doğu Anadolu
+22/06/2021,2021,5.3,14.74,Muğla,Yaz,Ege
+13/04/2021,2021,5.1,8.57,Muğla,İlkbahar,Ege
+01/02/2021,2021,5.1,17.62,İzmir,Kış,Ege
+01/02/2021,2021,5.1,20.69,İzmir,Kış,Ege
+27/12/2020,2020,5.3,15.94,Elazığ,Kış,Doğu Anadolu
+05/12/2020,2020,5.2,77.22,Antalya,Kış,Akdeniz
+03/12/2020,2020,5.0,14.02,Siirt,Kış,Güneydoğu Anadolu
+31/10/2020,2020,5.0,7.33,İzmir,Sonbahar,Ege
+30/10/2020,2020,5.1,7.73,İzmir,Sonbahar,Ege
+30/10/2020,2020,6.6,14.9,İzmir,Sonbahar,Ege
+12/10/2020,2020,5.0,11.12,Muğla,Sonbahar,Ege
+20/09/2020,2020,5.1,6.2,Niğde,Sonbahar,İç Anadolu
+04/08/2020,2020,5.2,8.16,Malatya,Yaz,Doğu Anadolu
+28/06/2020,2020,5.2,63.72,Muğla,Yaz,Ege
+26/06/2020,2020,5.5,9.29,Manisa,Yaz,Ege
+25/06/2020,2020,5.4,7.48,Van,Yaz,Doğu Anadolu
+15/06/2020,2020,5.6,7.01,Bingöl,Yaz,Doğu Anadolu
+14/06/2020,2020,5.7,8.0,Bingöl,Yaz,Doğu Anadolu
+05/06/2020,2020,5.0,6.98,Malatya,Yaz,Doğu Anadolu
+19/03/2020,2020,5.0,7.39,Elazığ,İlkbahar,Doğu Anadolu
+18/02/2020,2020,5.2,14.68,Manisa,Kış,Ege
+30/01/2020,2020,5.5,12.11,Muğla,Kış,Ege
+30/01/2020,2020,5.4,11.35,Muğla,Kış,Ege
+28/01/2020,2020,5.4,25.0,Muğla,Kış,Ege
+25/01/2020,2020,5.1,16.4,Elazığ,Kış,Doğu Anadolu
+24/01/2020,2020,6.8,8.06,Elazığ,Kış,Doğu Anadolu
+22/01/2020,2020,5.4,10.35,Manisa,Kış,Ege
+11/12/2019,2019,5.1,22.63,Muğla,Kış,Ege
+03/10/2019,2019,5.0,18.74,Muğla,Sonbahar,Ege
+26/09/2019,2019,5.8,7.97,İstanbul,Sonbahar,Marmara
+08/08/2019,2019,6.0,10.92,Denizli,Yaz,Ege
+03/08/2019,2019,5.0,68.3,Muğla,Yaz,Ege
+04/04/2019,2019,5.2,8.92,Elazığ,İlkbahar,Doğu Anadolu
+20/03/2019,2019,5.5,10.76,Denizli,İlkbahar,Ege
+20/02/2019,2019,5.0,5.8,Çanakkale,Kış,Marmara
+24/01/2019,2019,5.1,51.33,Muğla,Kış,Ege
+12/09/2018,2018,5.2,36.68,Antalya,Sonbahar,Akdeniz
+24/04/2018,2018,5.1,9.79,Adıyaman,İlkbahar,Güneydoğu Anadolu
+25/11/2017,2017,5.1,24.46,Muğla,Sonbahar,Ege
+22/11/2017,2017,5.0,24.75,Muğla,Sonbahar,Ege
+08/08/2017,2017,5.1,11.03,Muğla,Yaz,Ege
+21/07/2017,2017,5.0,37.5,Muğla,Yaz,Ege
+21/07/2017,2017,6.5,19.44,Muğla,Yaz,Ege
+22/06/2017,2017,5.0,13.5,İzmir,Yaz,Ege
+17/06/2017,2017,5.3,10.25,İzmir,Yaz,Ege
+12/06/2017,2017,6.2,15.96,İzmir,Yaz,Ege
+27/05/2017,2017,5.1,11.03,Manisa,İlkbahar,Ege
+13/04/2017,2017,5.0,11.33,Muğla,İlkbahar,Ege
+02/03/2017,2017,5.5,9.76,Adıyaman,İlkbahar,Güneydoğu Anadolu
+12/02/2017,2017,5.3,7.0,Çanakkale,Kış,Marmara
+10/02/2017,2017,5.0,7.79,Çanakkale,Kış,Marmara
+07/02/2017,2017,5.2,11.92,Çanakkale,Kış,Marmara
+06/02/2017,2017,5.3,9.83,Çanakkale,Kış,Marmara
+06/02/2017,2017,5.3,8.86,Çanakkale,Kış,Marmara
+25/01/2017,2017,5.0,37.39,Muğla,Kış,Ege
+20/12/2016,2016,5.1,118.3,Muğla,Kış,Ege
+27/09/2016,2016,5.2,50.63,Muğla,Sonbahar,Ege
+10/01/2016,2016,5.0,13.6,Kırşehir,Kış,İç Anadolu
+26/12/2015,2015,5.2,12.78,Muğla,Kış,Ege
+03/12/2015,2015,5.3,10.66,Bingöl,Kış,Doğu Anadolu
+29/11/2015,2015,5.0,17.45,Malatya,Sonbahar,Doğu Anadolu
+07/10/2015,2015,5.2,34.23,Antalya,Sonbahar,Akdeniz
+30/07/2015,2015,5.0,29.68,Adana,Yaz,Akdeniz
+10/06/2015,2015,5.1,12.74,Muğla,Yaz,Ege
+17/04/2015,2015,5.2,5.7,Muğla,İlkbahar,Ege
+16/04/2015,2015,5.9,12.34,Muğla,İlkbahar,Ege
+28/03/2015,2015,5.0,56.13,Muğla,İlkbahar,Ege
+06/12/2014,2014,5.1,22.48,İzmir,Kış,Ege
+05/09/2014,2014,5.2,41.03,Antalya,Sonbahar,Akdeniz
+11/06/2014,2014,5.2,50.36,Antalya,Yaz,Akdeniz
+24/05/2014,2014,5.3,6.98,Çanakkale,İlkbahar,Marmara
+24/05/2014,2014,6.5,25.48,Çanakkale,İlkbahar,Marmara
+28/12/2013,2013,6.0,43.6,Antalya,Kış,Akdeniz
+08/12/2013,2013,5.0,65.0,Antalya,Kış,Akdeniz
+30/07/2013,2013,5.3,20.01,Çanakkale,Yaz,Marmara
+08/01/2013,2013,5.6,22.9,Çanakkale,Kış,Marmara
+19/09/2012,2012,5.1,22.35,Kahramanmaraş,Sonbahar,Akdeniz
+05/08/2012,2012,5.3,12.94,Şırnak,Yaz,Doğu Anadolu
+22/07/2012,2012,5.0,4.56,Kahramanmaraş,Yaz,Akdeniz
+09/07/2012,2012,6.0,40.45,Antalya,Yaz,Akdeniz
+05/07/2012,2012,5.0,34.09,Muğla,Yaz,Ege
+25/06/2012,2012,5.3,34.02,Muğla,Yaz,Ege
+24/06/2012,2012,5.0,23.62,Van,Yaz,Doğu Anadolu
+14/06/2012,2012,5.5,11.68,Şırnak,Yaz,Doğu Anadolu
+10/06/2012,2012,5.0,26.85,Muğla,Yaz,Ege
+10/06/2012,2012,6.0,33.77,Muğla,Yaz,Ege
+07/06/2012,2012,5.1,26.96,Tekirdağ,Yaz,Marmara
+03/05/2012,2012,5.4,10.59,Kütahya,İlkbahar,Ege
+01/05/2012,2012,5.0,26.27,İzmir,İlkbahar,Ege
+26/03/2012,2012,5.0,16.96,Muş,İlkbahar,Doğu Anadolu
+05/12/2011,2011,5.0,33.8,İzmir,Kış,Ege
+30/11/2011,2011,5.0,19.79,Van,Sonbahar,Doğu Anadolu
+18/11/2011,2011,5.2,8.0,Van,Sonbahar,Doğu Anadolu
+15/11/2011,2011,5.1,23.32,Van,Sonbahar,Doğu Anadolu
+09/11/2011,2011,5.6,21.47,Van,Sonbahar,Doğu Anadolu
+09/11/2011,2011,5.4,8.36,Van,Sonbahar,Doğu Anadolu
+27/10/2011,2011,5.6,21.61,Hakkari,Sonbahar,Doğu Anadolu
+25/10/2011,2011,5.4,17.44,Van,Sonbahar,Doğu Anadolu
+24/10/2011,2011,5.0,17.27,Van,Sonbahar,Doğu Anadolu
+23/10/2011,2011,5.8,6.79,Van,Sonbahar,Doğu Anadolu
+23/10/2011,2011,5.0,22.09,Van,Sonbahar,Doğu Anadolu
+23/10/2011,2011,5.0,19.81,Van,Sonbahar,Doğu Anadolu
+23/10/2011,2011,5.5,22.61,Van,Sonbahar,Doğu Anadolu
+23/10/2011,2011,5.3,7.48,Van,Sonbahar,Doğu Anadolu
+23/10/2011,2011,5.8,19.92,Van,Sonbahar,Doğu Anadolu
+23/10/2011,2011,6.7,19.02,Van,Sonbahar,Doğu Anadolu
+22/09/2011,2011,5.4,7.18,Erzincan,Sonbahar,Doğu Anadolu
+25/07/2011,2011,5.1,6.97,Balıkesir,Yaz,Marmara
+28/06/2011,2011,5.0,18.27,Kütahya,Yaz,Ege
+23/06/2011,2011,5.3,13.42,Elazığ,Yaz,Doğu Anadolu
+19/05/2011,2011,5.7,24.46,Kütahya,İlkbahar,Ege
+01/04/2011,2011,6.2,8.99,Muğla,İlkbahar,Ege
+15/11/2010,2010,5.1,24.17,Hatay,Sonbahar,Akdeniz
+03/11/2010,2010,5.1,28.9,Çanakkale,Sonbahar,Marmara
+24/03/2010,2010,5.0,22.57,Elazığ,İlkbahar,Doğu Anadolu
+08/03/2010,2010,5.0,11.75,Elazığ,İlkbahar,Doğu Anadolu
+08/03/2010,2010,5.0,4.91,Elazığ,İlkbahar,Doğu Anadolu
+08/03/2010,2010,5.6,15.15,Elazığ,İlkbahar,Doğu Anadolu
+08/03/2010,2010,5.8,5.01,Elazığ,İlkbahar,Doğu Anadolu
+17/01/2010,2010,5.1,24.75,Muğla,Kış,Ege
+22/12/2009,2009,5.6,14.54,Antalya,Kış,Akdeniz
+07/07/2009,2009,5.0,12.47,Malatya,Yaz,Doğu Anadolu
+19/06/2009,2009,5.6,23.83,Antalya,Yaz,Akdeniz
+29/12/2008,2008,5.1,2.94,Çanakkale,Kış,Marmara
+16/07/2008,2008,5.2,28.48,Muğla,Yaz,Ege
+15/07/2008,2008,6.1,57.42,Muğla,Yaz,Ege
+25/04/2008,2008,5.0,18.83,Denizli,İlkbahar,Ege
+15/03/2008,2008,5.0,12.87,Ankara,İlkbahar,İç Anadolu
+12/03/2008,2008,5.0,23.99,Yalova,İlkbahar,Marmara
+27/12/2007,2007,5.5,16.84,Ankara,Kış,İç Anadolu
+20/12/2007,2007,5.6,2.8,Ankara,Kış,İç Anadolu
+09/11/2007,2007,5.1,15.88,İzmir,Sonbahar,Ege
+29/10/2007,2007,5.0,23.42,Denizli,Sonbahar,Ege
+23/09/2007,2007,5.2,5.16,Muğla,Sonbahar,Ege
+26/08/2007,2007,5.5,23.88,Bingöl,Yaz,Doğu Anadolu
+28/02/2007,2007,5.2,26.11,Diyarbakır,Kış,Güneydoğu Anadolu
+21/02/2007,2007,5.4,8.51,Elazığ,Kış,Doğu Anadolu
+09/02/2007,2007,5.0,25.64,Elazığ,Kış,Doğu Anadolu
+21/01/2007,2007,5.1,5.32,Ağrı,Kış,Doğu Anadolu
+24/10/2006,2006,5.2,7.89,Yalova,Sonbahar,Marmara
+20/10/2006,2006,5.2,16.7,Balıkesir,Sonbahar,Marmara
+10/12/2005,2005,5.2,18.94,Bingöl,Kış,Doğu Anadolu
+26/11/2005,2005,5.2,19.05,Malatya,Sonbahar,Doğu Anadolu
+21/10/2005,2005,5.9,15.4,İzmir,Sonbahar,Ege
+17/10/2005,2005,5.5,11.06,İzmir,Sonbahar,Ege
+17/10/2005,2005,5.8,18.6,İzmir,Sonbahar,Ege
+17/10/2005,2005,5.0,20.47,İzmir,Sonbahar,Ege
+24/08/2005,2005,5.2,26.93,Çanakkale,Yaz,Marmara
+06/06/2005,2005,5.1,10.5,Bingöl,Yaz,Doğu Anadolu
+23/03/2005,2005,5.4,12.0,Bingöl,İlkbahar,Doğu Anadolu
+14/03/2005,2005,5.9,9.95,Bingöl,İlkbahar,Doğu Anadolu
+12/03/2005,2005,5.6,7.2,Bingöl,İlkbahar,Doğu Anadolu
+30/01/2005,2005,5.4,28.29,Antalya,Kış,Akdeniz
+25/01/2005,2005,5.4,23.0,Hakkari,Kış,Doğu Anadolu
+24/01/2005,2005,5.2,12.07,Antalya,Kış,Akdeniz
+21/12/2004,2004,5.1,12.5,Muğla,Kış,Ege
+07/10/2004,2004,5.0,113.85,Muğla,Sonbahar,Ege
+11/08/2004,2004,5.3,4.62,Elazığ,Yaz,Doğu Anadolu
+04/08/2004,2004,5.3,15.0,Muğla,Yaz,Ege
+04/08/2004,2004,5.1,18.75,Muğla,Yaz,Ege
+02/07/2004,2004,5.1,9.12,Ağrı,Yaz,Doğu Anadolu
+15/06/2004,2004,5.2,14.5,Çanakkale,Yaz,Marmara
+28/03/2004,2004,5.3,2.15,Erzurum,İlkbahar,Doğu Anadolu
+25/03/2004,2004,5.1,2.6,Erzurum,İlkbahar,Doğu Anadolu
+03/03/2004,2004,5.0,5.2,Bingöl,İlkbahar,Doğu Anadolu
+26/02/2004,2004,5.1,5.1,Adıyaman,Kış,Güneydoğu Anadolu
+26/07/2003,2003,5.0,10.7,Denizli,Yaz,Ege
+26/07/2003,2003,5.5,10.9,Denizli,Yaz,Ege
+26/07/2003,2003,5.1,10.6,Denizli,Yaz,Ege
+23/07/2003,2003,5.3,11.0,Denizli,Yaz,Ege
+13/07/2003,2003,5.7,11.26,Malatya,Yaz,Doğu Anadolu
+06/07/2003,2003,5.2,11.6,Edirne,Yaz,Marmara
+09/06/2003,2003,5.0,13.9,Balıkesir,Yaz,Marmara
+01/05/2003,2003,6.1,6.0,Bingöl,İlkbahar,Doğu Anadolu
+10/04/2003,2003,5.6,18.7,İzmir,İlkbahar,Ege
+02/04/2003,2003,5.2,10.6,Adıyaman,İlkbahar,Güneydoğu Anadolu
+27/01/2003,2003,6.4,15.9,Tunceli,Kış,Doğu Anadolu
+03/02/2002,2002,5.0,11.4,Afyonkarahisar,Kış,Ege
+03/02/2002,2002,5.0,8.7,Afyonkarahisar,Kış,Ege
+03/02/2002,2002,5.2,5.9,Afyonkarahisar,Kış,Ege
+03/02/2002,2002,6.1,9.6,Afyonkarahisar,Kış,Ege
+31/10/2001,2001,5.0,11.3,Osmaniye,Sonbahar,Akdeniz
+30/10/2001,2001,5.3,27.0,Antalya,Sonbahar,Akdeniz
+25/09/2001,2001,5.0,14.0,Antalya,Sonbahar,Akdeniz
+26/08/2001,2001,5.1,11.0,Düzce,Yaz,Karadeniz
+25/06/2001,2001,5.1,10.9,Osmaniye,Yaz,Akdeniz
+10/06/2001,2001,5.5,10.8,İzmir,Yaz,Ege
+15/12/2000,2000,5.6,10.5,Afyonkarahisar,Kış,Ege
+15/11/2000,2000,5.4,10.9,Van,Sonbahar,Doğu Anadolu
+23/08/2000,2000,5.4,9.1,Sakarya,Yaz,Marmara
+13/06/2000,2000,5.1,30.7,Muğla,Yaz,Ege
+09/06/2000,2000,5.0,22.7,Çankırı,Yaz,İç Anadolu
+06/06/2000,2000,5.9,10.5,Çankırı,Yaz,İç Anadolu
+21/04/2000,2000,5.0,6.8,Denizli,İlkbahar,Ege
+14/02/2000,2000,5.1,7.4,Bolu,Kış,Karadeniz
+19/11/1999,1999,5.0,8.3,Düzce,Sonbahar,Karadeniz
+17/11/1999,1999,5.0,3.1,Düzce,Sonbahar,Karadeniz
+12/11/1999,1999,5.0,10.4,Düzce,Sonbahar,Karadeniz
+12/11/1999,1999,5.2,8.12,Düzce,Sonbahar,Karadeniz
+12/11/1999,1999,7.2,11.0,Düzce,Sonbahar,Karadeniz
+11/11/1999,1999,5.7,8.9,Kocaeli,Sonbahar,Marmara
+05/10/1999,1999,5.0,20.5,Muğla,Sonbahar,Ege
+21/09/1999,1999,5.0,20.9,Tekirdağ,Sonbahar,Marmara
+13/09/1999,1999,5.7,4.3,Kocaeli,Sonbahar,Marmara
+31/08/1999,1999,5.2,10.5,Kocaeli,Yaz,Marmara
+19/08/1999,1999,5.1,32.0,Bursa,Yaz,Marmara
+17/08/1999,1999,7.4,15.9,Kocaeli,Yaz,Marmara
+06/04/1999,1999,5.3,15.5,Sivas,İlkbahar,İç Anadolu
